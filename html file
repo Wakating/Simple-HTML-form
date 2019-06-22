@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple HTML Form </title>
+</head>
+
+<body>
+    <h3><bold>HTML Challenge</bold></h3>
+  <p>
+    Create a form that takes the information of a user for dating
+  </p>
+  <h1><bold> Tindi</bold></h1>
+    <p>Please enter your information below</p>
+    
+    <form>
+        Name: <input type="text" name ="name" placeholder="Your name here"><br>
+        Surname:<input type="text" name="surname" placeholder="Your surname here"><br>
+        Gender:male: <input type="radio" name="gender">
+        female: <input type="radio" name="gender"><br>
+        age:
+        <input type="text" name="age" placeholder="Your age here"><br>
+        <input type= "submit">
+    </form>
+    </body>
+</html>
